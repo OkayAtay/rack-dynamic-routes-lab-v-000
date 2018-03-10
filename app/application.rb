@@ -1,2 +1,2 @@
-def application
+class Application
 end
